@@ -1,3 +1,2 @@
 # RAG
-
 Explore RAG
